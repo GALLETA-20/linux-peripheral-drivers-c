@@ -8,7 +8,7 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <stdint.h>
-#include "../devices/ads1115.h"
+#include "../devices/ads1115/ads1115.h"
 #include <signal.h>
 #include "../i2c_driver/i2c_driver.h"
 
